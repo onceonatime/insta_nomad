@@ -1,1 +1,1 @@
-web: gunicorn instagram-nomad.wsgi --log-file -
+web: gunicorn django_app.wsgi --log-file -
