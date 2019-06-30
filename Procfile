@@ -1,0 +1,1 @@
+web: gunicorn instagram-nomad.wsgi --log-file -
